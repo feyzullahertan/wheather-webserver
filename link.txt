@@ -1,0 +1,7 @@
+﻿https://dry-oasis-08019.herokuapp.com/get.php?sehirekle=Konya&submit=G%C3%B6nder
+
+
+"Konya" yerine istediginiz sehri yazabilirsiniz.
+
+
+Youtube üzerinde deneme videosu çektim: https://www.youtube.com/watch?v=BgnsxDXk7J0&feature=youtu.be
